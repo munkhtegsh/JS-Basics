@@ -42,7 +42,8 @@ var welcome = () => {
 //What is the difference between arguments and parameters?
 
 //Answer Here
-
+//Argument is the data when user is passing information to a function.
+//Parameter is the data that transfered by the user in the function.
 
 //////////////////PROBLEM 5////////////////////
 
