@@ -51,8 +51,9 @@ var welcome = () => {
 
 //What are all the falsy values in JavaScript and how do you check if something is falsy?
 
-
 //Answer Here
+//The falsy values in js are null, undefined, false, 0, nan.
+//I would check something is falsy in the google console using == operator
 
 
 
